@@ -3,5 +3,5 @@ A simple repository to storing some contents about software engineering topics, 
 
 Week 1 - Data Structures and Algorithms
 - Linear Data Structures (Arrays, Lists, Queues, Stacks)
-- Non-Linear Data Structures (Map, Set, Tree, Graphs)
+- Non-Linear Data Structures (Map, Hashtables, Set, Tree, Graphs)
 - Algorithms (Binary Search, DFS e BFS)
